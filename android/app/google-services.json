@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182340628873",
+    "project_id": "fyp-look-and-guide",
+    "storage_bucket": "fyp-look-and-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182340628873:android:7ddab7ed2b17733597f158",
+        "android_client_info": {
+          "package_name": "com.example.fyp_look_and_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182340628873-1gug8ufanh7fp619g9r0f85s1di18ge2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5MuFFh7emYde-NkamceNy2u1vzeEvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182340628873-1gug8ufanh7fp619g9r0f85s1di18ge2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
